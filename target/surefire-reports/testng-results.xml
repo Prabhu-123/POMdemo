@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.gmail.tests.HomePageTest" duration-ms="44092" started-at="2020-08-12T04:36:57Z" finished-at="2020-08-12T04:37:41Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="44092" started-at="2020-08-12T04:36:57Z" finished-at="2020-08-12T04:37:41Z">
+      <class name="com.gmail.tests.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.gmail.tests.HomePageTest@3d8c7aca]" name="setup" is-config="true" duration-ms="37142" started-at="2020-08-12T10:06:57Z" finished-at="2020-08-12T10:07:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="NavigateAcademics()[pri:0, instance:com.gmail.tests.HomePageTest@3d8c7aca]" name="NavigateAcademics" duration-ms="6919" started-at="2020-08-12T10:07:34Z" finished-at="2020-08-12T10:07:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateAcademics -->
+      </class> <!-- com.gmail.tests.HomePageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.gmail.tests.HomePageTest -->
+</testng-results>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FFlipkart Test Automation Test Suite" duration-ms="14415" started-at="2020-08-17T12:14:39Z" finished-at="2020-08-17T12:14:54Z">
+    <groups>
+    </groups>
+    <test name="Flipkart Test Cases" duration-ms="14415" started-at="2020-08-17T12:14:39Z" finished-at="2020-08-17T12:14:54Z">
+      <class name="com.gmail.tests.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.gmail.tests.HomePageTest@3632be31]" name="setup" is-config="true" duration-ms="7105" started-at="2020-08-17T17:44:39Z" finished-at="2020-08-17T17:44:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="NavigateAcademics()[pri:0, instance:com.gmail.tests.HomePageTest@3632be31]" name="NavigateAcademics" duration-ms="6668" started-at="2020-08-17T17:44:46Z" finished-at="2020-08-17T17:44:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateAcademics -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.gmail.tests.HomePageTest@3632be31]" name="closebrowser" is-config="true" duration-ms="616" started-at="2020-08-17T17:44:53Z" finished-at="2020-08-17T17:44:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.gmail.tests.HomePageTest -->
+    </test> <!-- Flipkart Test Cases -->
+  </suite> <!-- FFlipkart Test Automation Test Suite -->
+</testng-results>

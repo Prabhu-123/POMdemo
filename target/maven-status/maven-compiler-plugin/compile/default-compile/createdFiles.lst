@@ -1,0 +1,8 @@
+com\crm\util\TestUtil.class
+com\gmail\pages\SigninPage.class
+com\gmail\base\TestBase.class
+com\gmail\pages\Create_accountPage.class
+com\gmail\extentreportlistener\ExtentReporterNG.class
+com\gmail\pages\ELearningPage.class
+com\gmail\pages\AcademicsPage.class
+com\gmail\pages\HomePage.class
